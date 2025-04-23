@@ -2,6 +2,23 @@
 
 An intelligent reading assistant that helps users analyze books and get personalized recommendations using Google's Gemini AI.
 
+
+## Project Structure
+
+```python
+assignment_6/
+├── main.py              # Main application entry point
+├── models.py            # Pydantic data models
+├── action.py            # Action execution layer
+├── decision.py          # Decision making layer
+├── memory.py            # Data persistence layer
+├── perception.py        # AI interaction layer
+├── prompt_handler.py    # Prompt management
+├── books_database.json  # Book storage
+├── reading_history.json # Reading history storage
+├── requirements.txt     # Project dependencies
+└── .env                 # Environment variables (not in repo)
+
 ## Features
 
 - **Book Analysis**: Detailed analysis of books including:
