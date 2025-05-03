@@ -1,0 +1,16 @@
+{
+  "harry potter": [
+    {
+      "date": "2025-04-29T22:59:19.741768",
+      "pages_read": 20,
+      "minutes_spent": 30
+    }
+  ],
+  " The Great Gatsby": [
+    {
+      "date": "2025-04-29T23:08:01.671282",
+      "pages_read": 30,
+      "minutes_spent": 30
+    }
+  ]
+}

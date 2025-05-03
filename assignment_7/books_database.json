@@ -1,0 +1,18 @@
+[
+  {
+    "title": "harry potter",
+    "author": "jk bowling",
+    "genre": "thriller",
+    "content": "i like the book,simple english",
+    "rating": 4.0,
+    "notes": "good book"
+  },
+  {
+    "title": " The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "content": "The Great Gatsby is a 1925 novel by F. Scott Fitzgerald. Set in the Jazz Age, it follows mysterious millionaire Jay Gatsby and his obsession with Daisy Buchanan. The story explores themes of decadence, idealism, excess, and the American Dream.",
+    "rating": 4.5,
+    "notes": "Classic American novel"
+  }
+]
